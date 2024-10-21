@@ -1,0 +1,1 @@
+<footer class="main">Copyright &copy; 2021 <strong> SPORTSWORLD System </strong></footer>
